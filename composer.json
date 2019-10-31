@@ -1,5 +1,5 @@
 {
-    "name": "si/serializer",
+    "name": "shuba_custom_jms_serlizer",
     "type": "library",
     "description": "Library for (de-)serializing data of any complexity; supports XML, JSON, and YAML.",
     "keywords": ["serialization", "deserialization", "json", "jaxb", "xml"],
